@@ -1,1 +1,103 @@
-# DSA----consistency-over-intensity
+# DSA Grind 🚀
+
+Daily DSA practice repository following the Striver A2Z DSA Sheet.
+
+## Topics to Solve
+
+### Basics
+- Time Complexity
+- Basic Math
+- Recursion
+- Hashing
+
+### Arrays
+- Easy Arrays
+- Medium Arrays
+- Hard Arrays
+- Sliding Window
+- Prefix Sum
+- Two Pointer
+
+### Strings
+- String Basics
+- Pattern Matching
+- Palindrome Problems
+- String Hashing
+
+### Searching & Sorting
+- Binary Search
+- Sorting Algorithms
+- Search Space Problems
+
+### Linked List
+- Singly Linked List
+- Doubly Linked List
+- Fast & Slow Pointer
+- Linked List Problems
+
+### Stack & Queue
+- Stack Implementation
+- Queue Implementation
+- Monotonic Stack
+- Expression Problems
+
+### Recursion & Backtracking
+- Subsequence Problems
+- Combination Problems
+- Permutations
+- Sudoku / N-Queens
+
+### Trees
+- Binary Trees
+- BST
+- Tree Traversals
+- Lowest Common Ancestor
+- Diameter Problems
+
+### Heap
+- Priority Queue
+- Heap Problems
+- Top K Elements
+
+### Greedy Algorithms
+- Interval Problems
+- Scheduling Problems
+- Greedy Optimization
+
+### Graphs
+- BFS
+- DFS
+- Shortest Path
+- Topological Sort
+- MST
+- Disjoint Set Union
+
+### Dynamic Programming
+- 1D DP
+- 2D DP
+- LIS
+- Knapsack
+- DP on Strings
+- DP on Trees
+
+### Tries
+- Trie Basics
+- String Search Problems
+
+### Bit Manipulation
+- XOR Problems
+- Bitmasking
+
+## Current Sheet
+Striver A2Z DSA Sheet
+
+## Platforms
+- LeetCode
+- GeeksforGeeks
+- Coding Ninjas
+
+## Goal
+- Daily consistency
+- Strong problem-solving skills
+- Interview preparation
+- Improve coding efficiency
