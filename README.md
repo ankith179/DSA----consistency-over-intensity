@@ -131,4 +131,12 @@ Striver A2Z DSA Sheet
 | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
