@@ -108,11 +108,13 @@ Striver A2Z DSA Sheet
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -122,9 +124,11 @@ Striver A2Z DSA Sheet
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
