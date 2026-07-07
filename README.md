@@ -105,38 +105,39 @@ Striver A2Z DSA Sheet
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0223-rectangle-area](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0223-rectangle-area) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0223-rectangle-area](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
