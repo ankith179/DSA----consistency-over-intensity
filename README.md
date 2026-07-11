@@ -110,22 +110,26 @@ Striver A2Z DSA Sheet
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
