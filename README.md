@@ -144,4 +144,8 @@ Striver A2Z DSA Sheet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0223-rectangle-area) |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
