@@ -139,6 +139,7 @@ Striver A2Z DSA Sheet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/ankith179/DSA----consistency-over-intensity/tree/master/0223-rectangle-area) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -148,4 +149,8 @@ Striver A2Z DSA Sheet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/1291-sequential-digits/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ankith179/DSA----consistency-over-intensity/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
